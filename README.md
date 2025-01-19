@@ -28,8 +28,8 @@ Ensure you have the following installed:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/APsenpai42/azure-rag
-cd azure-rag
+git clone https://github.com/APsenpai42/llamafile-qdrant-rag
+cd llamafile-qdrant-rag
 ```
 
 ### Step 2: Set Up the Environment
